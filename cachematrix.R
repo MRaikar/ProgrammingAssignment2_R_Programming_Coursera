@@ -44,3 +44,4 @@ do_nothing <- function() {
         x <- x*y
 }
 ##This is an additional function and comment to check Git commits
+##Another additional and unsolicited comment
