@@ -37,4 +37,10 @@ cacheSolve <- function(func_list, ...) {
         my_cache
 } 
 
-##This is an additional comment to check Git commits
+do_nothing <- function() {
+        x <- 10
+        y <- 0
+        x <- 100*x
+        x <- x*y
+}
+##This is an additional function and comment to check Git commits
